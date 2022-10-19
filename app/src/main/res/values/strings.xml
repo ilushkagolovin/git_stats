@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">git_stats</string>
+    <string name="type_username">Type username</string>
+    <string name="username">Username</string>
+    <string name="name_of_repositories">Name of repositories</string>
+    <string name="find_repositories">Find repositories</string>
+    <string name="search">Search</string>
+    <string name="ok">OK</string>
+</resources>

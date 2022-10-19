@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Omega/AndroidStudioProjects/git_stats/app/src/main/res/drawable/custom_edit_text_rounded.xml" value="0.3255" />
+        <entry key="..\:/Users/Omega/AndroidStudioProjects/git_stats/app/src/main/res/drawable/ic_back_button.xml" value="0.3255" />
+        <entry key="..\:/Users/Omega/AndroidStudioProjects/git_stats/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3255" />
+        <entry key="..\:/Users/Omega/AndroidStudioProjects/git_stats/app/src/main/res/drawable/ic_user.xml" value="0.3255" />
+        <entry key="..\:/Users/Omega/AndroidStudioProjects/git_stats/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Omega/AndroidStudioProjects/git_stats/app/src/main/res/layout/custom_edit_text_rounded.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Omega/AndroidStudioProjects/git_stats/app/src/main/res/layout/recyclerview_item.xml" value="0.365625" />
+        <entry key="..\:/Users/Omega/AndroidStudioProjects/git_stats/app/src/main/res/layout/statistic_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Omega/AndroidStudioProjects/git_stats/app/src/main/res/layout/username_activiy.xml" value="0.33" />
+        <entry key="..\:/Users/Omega/AndroidStudioProjects/git_stats/app/src/main/res/layout/username_recycler_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

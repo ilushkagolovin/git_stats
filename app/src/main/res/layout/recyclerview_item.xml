@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/cv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="0dp"
+        app:strokeColor="@color/light_gray"
+        app:strokeWidth="1dp">
+
+
+            <TextView
+                android:id="@+id/reposiories_name"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/name_of_repositories"
+                android:textSize="15sp"
+                android:paddingStart="15dp"
+                android:paddingTop="17dp"
+                android:paddingBottom="10dp"
+                android:layout_gravity="center_vertical"/>
+
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Username"
+            android:paddingStart="15dp"/>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>
